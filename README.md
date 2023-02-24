@@ -1,2 +1,2 @@
 # HYPERBLOG
-un curso increible de dit y github
+un curso increible de git y github de platzi
