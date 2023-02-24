@@ -5,8 +5,30 @@ body{
     font-size: 16px;
     margin: 0%;
     padding: 0%;
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
+=======
+    font-family: 'arial'
+>>>>>>> cabezera
     
+}
+
+#cabecera{
+     background-color: cadetblue;
+     color: aliceblue;
+     padding: 1em;
+     font-weight: bold;
+     margin: 2;
+     box-shadow:10px -10px 10px #003a74;
+     border-radius: 10px;
+}
+
+
+#cabecera #dota{
+  padding: 0 0 0 1em;
+  font-weight: bold;
+  font-size: 0,8em;
+
 }
 
 .doteiro{
@@ -21,3 +43,9 @@ body{
    margin: auto;
    
 } 
+
+#post{
+
+  margin: 1em;
+}
+
