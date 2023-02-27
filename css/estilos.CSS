@@ -1,4 +1,5 @@
 body{
+    background: rgb(194, 194, 194);
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blue;
@@ -12,15 +13,23 @@ body{
 
     
 }
+ #logo{
+
+  width: 150px;
+  height: 100px;
+  vertical-align: middle;
+}
 
 #cabecera{
-     background-color: cadetblue;
-     color: aliceblue;
-     padding: 1em;
+     background-color: url("../imagenes/dragon.png") no-repeat center center;
+     background-size: 10px;
+     color: rgb(1, 94, 176);
+     padding: 0.5em;
      font-weight: bold;
-     margin: 2;
+     margin: 0;
      box-shadow:10px -10px 10px #003a74;
      border-radius: 10px;
+     background-color: aquamarine;
 }
 
 
@@ -36,16 +45,21 @@ body{
 }
 
 #container{
-   width: 30%;
-   padding: 1em;
-   text-align: center;
+   width: 70%;
+   padding: 0;
+   text-align: left;
    border: 1px solid orange;
-   margin: auto;
+   margin: 0 auto;
    
 } 
+
+#container h1{
+  font-size: 20px;
+}
 
 #post{
 
   margin: 1em;
+  color: rgb(255, 255, 255);
 }
 
