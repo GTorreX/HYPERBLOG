@@ -21,13 +21,15 @@ body{
      margin: 2;
      box-shadow:10px -10px 10px #003a74;
      border-radius: 10px;
+     
 }
 
 
-#cabecera #dota{
-  padding: 0 0 0 1em;
-  font-weight: bold;
-  font-size: 0,8em;
+   #dota{
+    padding: 0 0 0 7em;
+    font-weight: bold;
+    position: static;
+  
 
 }
 
@@ -36,11 +38,12 @@ body{
 }
 
 #container{
-   width: 30%;
-   padding: 1em;
-   text-align: center;
-   border: 1px solid orange;
-   margin: auto;
+  width: 50%;
+    height: 550px;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid orange;
+    margin: auto;
    
 } 
 
