@@ -12,3 +12,4 @@ un cuso bien la virgolini xD
 * ELPEPE.
 * TETRIS.
 * CREADO POR EL PEPE.
+* INCLUYE EJEMPLOS Xd.
